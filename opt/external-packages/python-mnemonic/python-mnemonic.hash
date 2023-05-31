@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/mnemonic/json
+md5  6846906ee827d43cbf1d7bba648e35b3  mnemonic-0.20.tar.gz
+sha256  7c6fb5639d779388027a77944680aee4870f0fcd09b1e42a5525ee2ce4c625f6  mnemonic-0.20.tar.gz
+# Locally computed sha256 checksums
+sha256  d5e3c7c62a84e80073201e2f6e5130e9e6804fa05f8ac4f8b26a13c7d3969697  LICENSE
