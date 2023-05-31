@@ -1,0 +1,11 @@
+config BR2_PACKAGE_PYTHON_STELLAR_SDK_MINI
+	bool "python-stellar-sdk-mini"
+	select BR2_PACKAGE_PYTHON_CFFI # runtime
+	select BR2_PACKAGE_PYTHON_MNEMONIC # runtime
+	select BR2_PACKAGE_PYTHON_PYCPARSER # runtime
+	select BR2_PACKAGE_PYTHON_PYNACL # runtime
+	help
+	  The Python Stellar SDK library provides APIs to build
+	  transactions and connect to Horizon.
+
+	  https://github.com/StellarCN/py-stellar-base
