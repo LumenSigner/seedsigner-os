@@ -1,5 +1,5 @@
 # md5, sha256 from https://pypi.org/pypi/stellar-sdk-mini/json
-md5  c0a1d477bc2ab045ecd4f6e6bbddf918  stellar-sdk-mini-8.2.0.post2.tar.gz
-sha256  0998883e176ff62cdf94cdcf444ee89b07ab44642df5c9eb34405aef1431ac71  stellar-sdk-mini-8.2.0.post2.tar.gz
+md5  0374337907c552a9a6ec72181566b13e  stellar-sdk-mini-8.2.0.post3.tar.gz
+sha256  15f328ad36c0f680211573225b467e9713a845234c656699ef9fcb1e0d5cc808  stellar-sdk-mini-8.2.0.post3.tar.gz
 # Locally computed sha256 checksums
 sha256  c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4  LICENSE
